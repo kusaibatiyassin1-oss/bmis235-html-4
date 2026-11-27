@@ -20,7 +20,7 @@
      Build it once on this page, check that every link works,
      then copy the whole <nav> block and paste it over the menu on the
      other three pages, so every page has the exact same menu.
-     ===================================================================== -->
+     ===================================================================== --
 <nav>
     <a href="index.html"><img src="img/home.png" alt="Home"></a>
     <a href="Blue.html"><img src="img/page1.png" alt="Blue"></a>
