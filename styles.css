@@ -95,3 +95,15 @@ footer {
     border-radius: 10px;
 }
 .blk-gallery figcaption { text-align: center; font-size: 15px; margin-top: 6px; }
+
+/* FAQ */
+.blk-faq { max-width: 600px; margin: 30px auto; }
+.blk-faq details {
+    border: 2px solid #dddddd;
+    border-radius: 10px;
+    padding: 12px 16px;
+    margin-bottom: 10px;
+    background-color: white;
+}
+.blk-faq summary { font-weight: bold; cursor: pointer; }
+.blk-faq p { margin: 10px 0 0 0; }
