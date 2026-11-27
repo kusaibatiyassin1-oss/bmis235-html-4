@@ -57,3 +57,25 @@ footer {
     color: #777777;
     margin-top: 40px;
 }
+
+/* BANNER */
+.blk-banner {
+    background-color: #2b5d8c;   /* change to your brand color */
+    color: white;
+    text-align: center;
+    padding: 60px 20px;
+    border-radius: 12px;
+    margin: 20px auto;
+    max-width: 900px;
+}
+.blk-banner h2 { font-size: 40px; margin: 0 0 10px 0; }
+.blk-banner p { font-size: 20px; margin: 0 auto 24px auto; }
+.blk-button {
+    display: inline-block;
+    background-color: white;
+    color: #2b5d8c;              /* same brand color */
+    padding: 12px 24px;
+    border-radius: 8px;
+    font-weight: bold;
+    text-decoration: none;
+}
