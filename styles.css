@@ -60,7 +60,7 @@ footer {
 
 /* BANNER */
 .blk-banner {
-    background-color: #2b5d8c;   /* change to your brand color */
+    background-color: #2b5d8c;  git commit -m "style: update background color for banner and button" /* change to your brand color */
     color: white;
     text-align: center;
     padding: 60px 20px;
@@ -73,7 +73,7 @@ footer {
 .blk-button {
     display: inline-block;
     background-color: white;
-    color: #2b5d8c;              /* same brand color */
+    color: #2b5d8c; git commit -m "style: update background color for banner and button"             /* same brand color */
     padding: 12px 24px;
     border-radius: 8px;
     font-weight: bold;
