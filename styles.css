@@ -12,7 +12,7 @@
 body {
     font-family: Georgia, "Arial", serif; git commit -m "style: update background color for banner and button"
     background-color: #6A6916;
-    color: ##F4F1EA;
+    color: #F4F1EA;
     margin: 0;
     padding: 0 20px 40px 20px;
 }
@@ -73,7 +73,8 @@ footer {
 .blk-button {
     display: inline-block;
     background-color: white;
-    color: #FA7D2A; git commit -m "style: update background color for banner and button"             /* same brand color */
+    color: #FA7D2A; 
+   git commit -m "style: update background color for banner and button"             /* same brand color */
     padding: 12px 24px;
     border-radius: 8px;
     font-weight: bold;
