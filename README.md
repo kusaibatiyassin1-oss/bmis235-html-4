@@ -1,5 +1,5 @@
-# HTML-4: Differences about our eye colors.
-**By:** Yassin Kusaibati (YOUR-GU-USERNAME)
+# HTML-4: Beauty in Our Different Eye Colors.
+**By:** Yassin Kusaibati, mkusaibati@zagmail.Gonzaga.edu
 **Live site:** https://kusaibatiyassin1-oss.github.io/bmis235-html-4/index.html
 
 #1 My path
