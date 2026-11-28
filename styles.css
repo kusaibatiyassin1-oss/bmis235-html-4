@@ -10,7 +10,7 @@
    ===================================================================== */
 
 body {
-    font-family: Georgia, "Times New Roman", serif;
+    font-family: Georgia, "Arial", serif; git commit -m "Change the font to make it look better"
     background-color: #FA7D2A;
     color: #2b2b2b;
     margin: 0;
