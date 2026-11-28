@@ -10,16 +10,16 @@
    ===================================================================== */
 
 body {
-    font-family: Georgia, "Arial", serif; git commit -m "style: update background color for banner and button"
+    font-family: Georgia, "Times New Roman", serif;
     background-color: #6A6916;
-    color: #F4F1EA;
+    color: #EFF2F3;
     margin: 0;
     padding: 0 20px 40px 20px;
 }
 
 /* the menu at the top of every page */
 nav {
-    background-color: ;#FA7D2A
+    background-color: #FA7D2A;
     padding: 14px;
     text-align: center;
 }
@@ -60,7 +60,7 @@ footer {
 
 /* BANNER */
 .blk-banner {
-    background-color: #FA7D2A;  git commit -m "style: update background color for banner and button" /* change to your brand color */
+    background-color: #FA7D2A;
     color: white;
     text-align: center;
     padding: 60px 20px;
