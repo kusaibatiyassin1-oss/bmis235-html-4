@@ -122,7 +122,7 @@ footer {
 }
 .blk-card {
     flex: 1 1 240px;
-    background-color: white;
+    background-color: white; git commit -m "style: update .blk-card background-color to #AFEEEE"
     border: 2px solid #dddddd;
     border-radius: 12px;
     overflow: hidden;
